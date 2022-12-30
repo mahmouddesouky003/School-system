@@ -1,0 +1,21 @@
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: Password@123
+
+**parent Login Details**
+
+Email	: pedro@mail.com
+Password: 123456
+
+
+**teacher Login Details**
+
+Email	: maria@mail.com
+Password: 123456
+
+**student Login Details**
+
+Email	: collines@mail.com
+Password: 123456
